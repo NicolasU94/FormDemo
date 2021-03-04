@@ -1,0 +1,31 @@
+.form-group{
+    margin-bottom: 5;
+}
+.form-control {
+    width: 20%;
+    padding: 10px,10px,10px;
+}
+.container {
+    margin: 5px;
+    padding: 5px;
+}
+
+  .required:after{
+    content:"*";color:red;
+    display: inline;
+ }
+ #tos {
+     padding-left: 5px;
+     padding-right: 5px;
+ }
+#tosbtn{
+font-size: x-small;
+width: 50;
+height: 30;
+}
+#sendbtn{
+    size: 60px;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}

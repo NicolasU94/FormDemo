@@ -1,0 +1,62 @@
+[
+{
+"id":"1",
+"name":"Buenos Aires",
+"parent_id": "0"
+},
+{
+"id":"2",
+"name":"Rio Negro",
+"parent_id": "0"
+},
+{
+"id":"3",
+"name":"Santa Fe",
+"parent_id": "0"
+},
+{
+"id":"4",
+"name":"Villa Devoto",
+"parent_id": "1"
+},
+{
+"id":"5",
+"name":"Villa Urquiza",
+"parent_id": "1"
+},
+{
+"id":"6",
+"name":"Belgrano",
+"parent_id": "1"
+},
+{
+"id":"7",
+"name":"Bariloche",
+"parent_id": "2"
+},
+{
+"id":"8",
+"name":"General Roca",
+"parent_id": "2"
+},
+{
+"id":"9",
+"name":"Adolfo Alsina",
+"parent_id": "2"
+},
+{
+"id":"10",
+"name":"La Capital",
+"parent_id": "3"
+},
+{
+"id":"11",
+"name":"Rosario",
+"parent_id": "3"
+},
+{
+"id":"12",
+"name":"Castellanos",
+"parent_id": "3"
+}
+]
